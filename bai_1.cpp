@@ -6,6 +6,8 @@
 #include<stdlib.h>
 #include<math.h>
 #include<conio.h>
+// ALO QUÝ ALO ALO 123 MÁ
+
 
 // Nhap mang
 void nhapMang(int *a, int n){
